@@ -4,3 +4,4 @@ Obtained a summary of quarterly stock performance of individual stocks denoted b
 
 Added an extra summary of extreme performers in terms of greatest percentage increase, greatest percentage decrease, and greatest total volumes.
 
+Made appropriate changes in script to work across all worksheets.
